@@ -60,8 +60,8 @@ public class RPSLSpock {
     }
 
     /**
-     * @param c_pick
-     * @param h_pick
+     * @param c_pick computer pick
+     * @param h_pick human pick
      * @return rules if computer wins
      */
     public static boolean isComputerWin(String c_pick,String h_pick) {
